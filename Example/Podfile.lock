@@ -1,0 +1,16 @@
+PODS:
+  - ZYConfigsKit (0.1.2)
+
+DEPENDENCIES:
+  - ZYConfigsKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZYConfigsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZYConfigsKit: 8d9698926dfb9109c42268bbec5164552e43ffb3
+
+PODFILE CHECKSUM: b7ce6c29c161a13f56fe98e68fae5f9853096feb
+
+COCOAPODS: 1.6.0.beta.1
