@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZYConfigsKit_Tests' do
+  pod 'ZYConfigsKit', :path => '../'
+  
+  
+end
